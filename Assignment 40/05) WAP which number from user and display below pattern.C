@@ -25,6 +25,7 @@ int main()
 
     Pattern(No);
 
+   
     getch();
     return 0;
 }
