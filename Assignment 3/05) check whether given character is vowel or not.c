@@ -36,4 +36,7 @@ int main()
     {
         printf("\nIt is not a Vowel.");
     }
+    
+    getch();
+    return 0;
 }
